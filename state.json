@@ -22,10 +22,6 @@
           "title": "Susannadijk 71",
           "firstSeen": 1794779068092
         },
-        "jan-evertsenplaats-155": {
-          "title": "Jan Evertsenplaats 155",
-          "firstSeen": 1794779068092
-        },
         "makreelstraat-9": {
           "title": "Makreelstraat 9",
           "firstSeen": 1794779068092
@@ -33,10 +29,6 @@
         "schuilenburg-15": {
           "title": "Schuilenburg 15",
           "firstSeen": 1794914752522
-        },
-        "laan-op-zuid-865": {
-          "title": "Laan op Zuid 865",
-          "firstSeen": 1794779068092
         },
         "laan-op-zuid-873": {
           "title": "Laan op Zuid 873",
@@ -77,6 +69,16 @@
         "vrijenbansestraat-37": {
           "title": "Vrijenbansestraat 37",
           "firstSeen": 1795115155795
+        },
+        "jan-evertsenplaats-155": {
+          "title": "Jan Evertsenplaats 155",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795435554906
+        },
+        "laan-op-zuid-865": {
+          "title": "Laan op Zuid 865",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795435554906
         },
         "marlijnstraat-11": {
           "title": "Marlijnstraat 11",
