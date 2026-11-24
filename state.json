@@ -22,20 +22,12 @@
           "title": "Susannadijk 71",
           "firstSeen": 1794779068092
         },
-        "makreelstraat-9": {
-          "title": "Makreelstraat 9",
-          "firstSeen": 1794779068092
-        },
         "schuilenburg-15": {
           "title": "Schuilenburg 15",
           "firstSeen": 1794914752522
         },
         "laan-op-zuid-873": {
           "title": "Laan op Zuid 873",
-          "firstSeen": 1794779068092
-        },
-        "albert-rousselsingel-12": {
-          "title": "Albert Rousselsingel 12",
           "firstSeen": 1794779068092
         },
         "maldenburg-26": {
@@ -69,6 +61,16 @@
         "vrijenbansestraat-37": {
           "title": "Vrijenbansestraat 37",
           "firstSeen": 1795115155795
+        },
+        "makreelstraat-9": {
+          "title": "Makreelstraat 9",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795518353555
+        },
+        "albert-rousselsingel-12": {
+          "title": "Albert Rousselsingel 12",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795518353555
         },
         "jan-evertsenplaats-155": {
           "title": "Jan Evertsenplaats 155",
