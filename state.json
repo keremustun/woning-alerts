@@ -62,6 +62,22 @@
           "title": "Vrijenbansestraat 37",
           "firstSeen": 1795115155795
         },
+        "jan-evertsenplaats-155": {
+          "title": "Jan Evertsenplaats 155",
+          "firstSeen": 1794779068092
+        },
+        "ankerkuilstraat-54": {
+          "title": "Ankerkuilstraat 54",
+          "firstSeen": 1795547154306
+        },
+        "viskaarweg-109": {
+          "title": "Viskaarweg 109",
+          "firstSeen": 1795547154306
+        },
+        "stormshoek-23": {
+          "title": "Stormshoek 23",
+          "firstSeen": 1795547154306
+        },
         "makreelstraat-9": {
           "title": "Makreelstraat 9",
           "firstSeen": 1794779068092,
@@ -71,11 +87,6 @@
           "title": "Albert Rousselsingel 12",
           "firstSeen": 1794779068092,
           "goneAt": 1795518353555
-        },
-        "jan-evertsenplaats-155": {
-          "title": "Jan Evertsenplaats 155",
-          "firstSeen": 1794779068092,
-          "goneAt": 1795435554906
         },
         "laan-op-zuid-865": {
           "title": "Laan op Zuid 865",
