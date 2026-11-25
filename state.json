@@ -26,10 +26,6 @@
           "title": "Schuilenburg 15",
           "firstSeen": 1794914752522
         },
-        "laan-op-zuid-873": {
-          "title": "Laan op Zuid 873",
-          "firstSeen": 1794779068092
-        },
         "maldenburg-26": {
           "title": "Maldenburg 26",
           "firstSeen": 1794941057994
@@ -77,6 +73,11 @@
         "stormshoek-23": {
           "title": "Stormshoek 23",
           "firstSeen": 1795547154306
+        },
+        "laan-op-zuid-873": {
+          "title": "Laan op Zuid 873",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795593951943
         },
         "makreelstraat-9": {
           "title": "Makreelstraat 9",
