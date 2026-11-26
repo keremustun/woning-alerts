@@ -38,10 +38,6 @@
           "title": "Brasemstraat 54",
           "firstSeen": 1794914752522
         },
-        "willebrordusstraat-95-d": {
-          "title": "Willebrordusstraat 95 D",
-          "firstSeen": 1794860578240
-        },
         "george-gershwinstraat-20": {
           "title": "George Gershwinstraat 20",
           "firstSeen": 1794942352572
@@ -73,6 +69,11 @@
         "briggemandreef-238": {
           "title": "Briggemandreef 238",
           "firstSeen": 1795633556409
+        },
+        "willebrordusstraat-95-d": {
+          "title": "Willebrordusstraat 95 D",
+          "firstSeen": 1794860578240,
+          "goneAt": 1795701953065
         },
         "maldenburg-26": {
           "title": "Maldenburg 26",
