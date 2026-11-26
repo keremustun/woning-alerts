@@ -26,20 +26,12 @@
           "title": "Schuilenburg 15",
           "firstSeen": 1794914752522
         },
-        "maldenburg-26": {
-          "title": "Maldenburg 26",
-          "firstSeen": 1794941057994
-        },
         "lier-1": {
           "title": "Lier 1",
           "firstSeen": 1794914752522
         },
         "susannadijk-107": {
           "title": "Susannadijk 107",
-          "firstSeen": 1794779068092
-        },
-        "burgemeester-brokxlaan-1746": {
-          "title": "Burgemeester Brokxlaan 1746",
           "firstSeen": 1794779068092
         },
         "brasemstraat-54": {
@@ -81,6 +73,16 @@
         "briggemandreef-238": {
           "title": "Briggemandreef 238",
           "firstSeen": 1795633556409
+        },
+        "maldenburg-26": {
+          "title": "Maldenburg 26",
+          "firstSeen": 1794941057994,
+          "goneAt": 1795680353305
+        },
+        "burgemeester-brokxlaan-1746": {
+          "title": "Burgemeester Brokxlaan 1746",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795680353305
         },
         "laan-op-zuid-873": {
           "title": "Laan op Zuid 873",
