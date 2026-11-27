@@ -14,10 +14,6 @@
           "title": "Dennekruid 31",
           "firstSeen": 1794779068092
         },
-        "laan-op-zuid-663": {
-          "title": "Laan op Zuid 663",
-          "firstSeen": 1794779068092
-        },
         "susannadijk-71": {
           "title": "Susannadijk 71",
           "firstSeen": 1794779068092
@@ -69,6 +65,11 @@
         "briggemandreef-238": {
           "title": "Briggemandreef 238",
           "firstSeen": 1795633556409
+        },
+        "laan-op-zuid-663": {
+          "title": "Laan op Zuid 663",
+          "firstSeen": 1794779068092,
+          "goneAt": 1795784755686
         },
         "willebrordusstraat-95-d": {
           "title": "Willebrordusstraat 95 D",
@@ -153,7 +154,8 @@
           "firstSeen": 1794937284333
         }
       },
-      "lastWarning": 1795746051091
+      "lastWarning": 1795746051091,
+      "failStreak": 1
     }
   },
   "heartbeat": "2026-11-27"
