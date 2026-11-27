@@ -153,7 +153,8 @@
           "firstSeen": 1794937284333
         }
       },
-      "lastWarning": 1795746051091
+      "lastWarning": 1795746051091,
+      "failStreak": 1
     }
   },
   "heartbeat": "2026-11-27"
